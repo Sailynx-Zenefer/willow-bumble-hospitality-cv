@@ -1,5 +1,5 @@
 {
-  description = "Build you resume with markdown";
+  description = "Build a willow_bumble_foh_cv with markdown";
 
   inputs = {
     nixpkgs.url = "github:nixos/nixpkgs/nixpkgs-unstable";
@@ -23,14 +23,14 @@
         ];
 
         buildPhase = ''
-          pandoc resume.md \
+          pandoc willow_bumble_foh_cv.md \
           -t html -f markdown \
           -c style.css --self-contained \
-          -o resume.html
+          -o willow_bumble_foh_cv.html
 
           wkhtmltopdf --enable-local-file-access \
-          resume.html \
-          resume.pdf
+          willow_bumble_foh_cv.html \
+          willow_bumble_foh_cv.pdf
         '';
 
       in with pkgs; {
@@ -38,11 +38,11 @@
         packages = {
           default = stdenvNoCC.mkDerivation {
             inherit buildInputs buildPhase;
-            name = "resume_md";
+            name = "willow_bumble_foh_cv_md";
             src = ./.;
             installPhase = ''
-              mkdir -p $out/resume
-              cp resume.* $out/resume/
+              mkdir -p $out/willow_bumble_foh_cv
+              cp willow_bumble_foh_cv.* $out/willow_bumble_foh_cv/
             '';
           };
         };
@@ -50,7 +50,7 @@
         checks = {
           default = stdenvNoCC.mkDerivation {
             inherit buildInputs buildPhase;
-            name = "resume-md checks";
+            name = "willow_bumble_foh_cv-md checks";
             src = ./.;
             installPhase = ''
               mkdir -p $out
