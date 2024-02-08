@@ -123,6 +123,11 @@ h1 {
     margin: 0.67em 0;
 }
 
+h5 {
+    text-align: left;
+    margin-left: 0;
+}
+
 /**
  * Address styling not present in IE 8/9, Safari 5, and Chrome.
  */
@@ -470,7 +475,7 @@ body {
 }
 
 p {
-    margin: 1em 0
+    margin: 1em 0;
 }
 
 a {
@@ -527,23 +532,25 @@ h2 {
 
 h3 {
     font-size: 18px;
-    color: #333
+    color: black;
     -webkit-margin-before: 0.01em;
     -webkit-margin-after: 0.01em;
 }
 
 h4 {
     font-size: 16px;
-    color: #333;
+    color: black;
     text-align: center;
     -webkit-margin-before: 0.02em;
     -webkit-margin-after: 0.02em;
 }
 
 h5 {
+    margin-top: 0;
+    margin-left: 1em;
     font-size: 14px;
-    color: #333;
-    text-align: center
+    color: black;
+    text-align: left
 }
 
 h6 {
@@ -560,11 +567,13 @@ pre {
 }
 
 ul {
-    padding-left: 30px
+    padding-left: 30px;
+    margin-left: 1em;
 }
 
 ol {
-    padding-left: 30px
+    padding-left: 30px;
+    margin-left: 1em;
 }
 
 ol li ul:first-of-type {

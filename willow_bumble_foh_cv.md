@@ -53,7 +53,7 @@ Over the years, I’ve worked and studied in a variety of roles and sectors. Pri
 - Serving food to customers and dealing with queries.
 - Deep cleaning of cafe/kitchen weekly.
 
-## Other Voluntary Work
+## Voluntary Work
 
 - **Brighton Toy & Model Museum** – Cashier, Visitor Information, Cleaner
 - **Cornish Bank Festival - Falmouth** – Ticketing, Stewarding, Tent maintenance
