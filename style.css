@@ -504,7 +504,6 @@ body>*:last-child {
         box-shadow: none
     }
 }
-
 h1,
 h2,
 h3,
@@ -517,11 +516,15 @@ h6 {
     -webkit-font-smoothing: subpixel-antialiased;
     cursor: text
 }
-
 h1 {
     font-size: 37px;
-    color: #000;
-    text-align: center
+    color: black;
+    text-align: center;
+    background-color: rgb(255, 205, 0);
+    border-radius: 10px;
+    margin-left:100px;
+    margin-right:100px;
+
 }
 
 h2 {
