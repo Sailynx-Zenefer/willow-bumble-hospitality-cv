@@ -1,8 +1,8 @@
 ---
 title: Willow Bumble
 ---
-######  [ willow.bumble@gmail.com ] - [ 07907 897 554 ]
 ##### **A naturally friendly, level-headed and dedicated individual, eager to be employed in a front-of-house role.**
+######  [ willow.bumble@gmail.com ] - [ 07907 897 554 ]
 Over the years, I’ve worked and studied in a variety of roles and sectors. Prior to 2020, I gained experience working in cafes, bars, and event organization. During these team-oriented and public facing roles, I've proven to be trustworthy, adaptable and reliable. This includes responsibilities handling cash and locking up premises. Whilst I am quick to understand my role as part of team, I also excel working independently. Such as during lockdown and since, I’ve started my own company making clothing and video content, where I organise and create everything from the clothes to the advertising.  In general, Whilst I'm readily compliant, I'm also not afraid to use my common sense and initiative. I look forward to hearing from you and will be available for interview as soon as is convenient for you.
 
 
@@ -29,7 +29,7 @@ Over the years, I’ve worked and studied in a variety of roles and sectors. Pri
 ## Experience
 
 ### Siderealism - Brighton
-##### Self-Employed multi-role, 2019-present
+##### Self-Employed Multi-Role, 2019-present
 - Designing and handmaking garments, costumes, headwear.
 - Developing my own website.
 - Designing my own branding, logos, album artwork and icons in many formats.
